@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 <!--
-**avirax94/avirax94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<br>
+![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=avirax94&show_icons=true&hide_border=true)
+<br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
